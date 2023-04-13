@@ -24,8 +24,10 @@ Tecnologias
 
 ##
 
-<img align="center" alt="Khalil - Linkedn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+<a href="https://www.linkedin.com/in/khalil-jbv/">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
 
+  
 
 
 

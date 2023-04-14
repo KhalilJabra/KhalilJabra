@@ -8,6 +8,7 @@ Atualmente graduando em engenharia de software na Pontifícia Universidade Cató
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilJabra&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilJabra&layout=compact&theme=dark)
 
+
 ##
 
 Tecnologias

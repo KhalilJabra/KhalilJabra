@@ -29,8 +29,7 @@ Tecnologias
 <img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
 
   
-
-![snake_gif](https://github.com/Khaliljabra/Khaliljabra/blob/output/github-contribution-grid-snake.svg)
-
+##
+![snake gif](https://github.com/KhalilJabra/KhalilJabra/blob/output/github-contribution-grid-snake.gif)
 
 

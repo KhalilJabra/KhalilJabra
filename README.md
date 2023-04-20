@@ -30,7 +30,7 @@ Tecnologias
 
   
 
-![snake gif](https://github.com/KhalilJabra/KhalilJabra/blob/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/Khaliljabra/Khaliljabra/blob/output/github-contribution-grid-snake.svg)
 
 
 

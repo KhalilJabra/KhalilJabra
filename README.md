@@ -30,11 +30,9 @@ Tecnologias
 <a href="https://www.linkedin.com/in/khalil-jbv/">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
 
-  
-##
-![snake gif](https://github.com/KhalilJabra/KhalilJabra/blob/output/github-contribution-grid-snake.gif)
-  
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KhalilJabra&bg_color=171d4a&color=ffffff&line=000000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+ ##
+
+![snake gif](https://github.com/KhalilJabra/KhalilJabra/blob/output/github-contribution-grid-snake.svg)
 

@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a5df1&height=120&section=header"/>
+
 Ola, eu sou o Khalil Jabra !
 
 Atualmente graduando em engenharia de software no 7º Período na Pontifícia Universidade Católica do Paraná(PUC-PR)
@@ -31,5 +33,8 @@ Tecnologias
   
 ##
 ![snake gif](https://github.com/KhalilJabra/KhalilJabra/blob/output/github-contribution-grid-snake.gif)
+  
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KhalilJabra&bg_color=171d4a&color=ffffff&line=000000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

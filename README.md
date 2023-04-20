@@ -5,8 +5,8 @@ Atualmente graduando em engenharia de software na Pontifícia Universidade Cató
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KhalilJabra&theme=transparent)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhalilJabra&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KhalilJabra&theme=algolia)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhalilJabra&layout=compact&theme=algolia)
 
 
 ##

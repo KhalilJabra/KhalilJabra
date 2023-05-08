@@ -1,5 +1,5 @@
 
-Ola, eu sou o Khalil Jabra !
+Eu sou o Khalil Jabra !
 
 Atualmente graduando em engenharia de software no 7º Período na Pontifícia Universidade Católica do Paraná(PUC-PR)
 
